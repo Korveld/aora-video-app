@@ -7,6 +7,6 @@ To build and run a project:
 3. Then, after installing all packages:
   - `npm run start` — to start expo
   - `npm run startWithoutCache` — to start expo and clear cache
-  - `npm run android` — to build android build
-  - `npm run ios` — to build ios build
-  - `npm run web` — to build web build
+  - `npm run android` — to create android build
+  - `npm run ios` — to create ios build
+  - `npm run web` — to create web build
